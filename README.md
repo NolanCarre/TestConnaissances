@@ -4,4 +4,4 @@
  - git clone  https://github.com/NolanCarre/TestConnaissances.git
  - cd TestConnaissances 
  - jupyter nbconvert --to python Script/TPFinal.ipynb
- - python Script/TPFinal.ipynb 
+ - python Script/TPFinal.py
